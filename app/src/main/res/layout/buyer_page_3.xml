@@ -14,34 +14,16 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Name"
+        android:text="You can send push notification to the seller and notify him/her that you want to buy the book"
         android:gravity="center"
         android:textStyle="bold"
-        android:textSize="25dp"
+        android:textSize="25sp"
         android:id="@+id/textView3" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Phone"
-        android:gravity="center"
-        android:textStyle="bold"
-        android:textSize="25dp"
-        android:id="@+id/textView4" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Email"
-        android:gravity="center"
-        android:textStyle="bold"
-        android:textSize="25dp"
-        android:id="@+id/textView5" />
 
     <Button
         android:layout_width="203dp"
         android:layout_height="wrap_content"
-        android:text="Next"
+        android:text="Send Push Notification"
         android:layout_gravity="center"
         android:id="@+id/button3" />
     <Space
@@ -71,7 +53,7 @@
             android:layout_width="62dp"
             android:layout_height="wrap_content"
             android:text="2"
-            android:background="@drawable/round_shape_btn_selected"
+            android:background="@drawable/round_shape_btn"
             android:id="@+id/button5"
             android:layout_margin="10dp"
             android:layout_marginLeft="20dp"
@@ -81,7 +63,7 @@
             android:layout_width="62dp"
             android:layout_height="wrap_content"
             android:text="3"
-            android:background="@drawable/round_shape_btn"
+            android:background="@drawable/round_shape_btn_selected"
             android:id="@+id/button6"
             android:layout_margin="10dp"
             android:layout_marginLeft="20dp"
