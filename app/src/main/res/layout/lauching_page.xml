@@ -24,7 +24,8 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:text="There will be a vedio on the back ground which takes the whole page"
             android:layout_weight="1"
-            android:id="@+id/textView" />
+            android:id="@+id/textView"
+            android:textColor="@android:color/background_light" />
         <Space
             android:layout_width="20px"
             android:layout_height="20px"
@@ -35,7 +36,8 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:text="App Icon For Campus Book SCU"
             android:layout_weight="1"
-            android:id="@+id/textView2" />
+            android:id="@+id/textView2"
+            android:textColor="@android:color/background_light" />
 
     </LinearLayout>
 
@@ -47,14 +49,14 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New Button"
+            android:text="Sign up"
             android:layout_weight="1"
             android:id="@+id/button" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New Button"
+            android:text="Sign In"
             android:layout_weight="1"
             android:id="@+id/button2" />
     </LinearLayout>
