@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The customer wants to buy your book, please contact with him/her:"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:id="@+id/textView10"
+        android:textColor="#9E3B33"
+        android:layout_gravity="left|top" />
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: June"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/textView11" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email:  XXXX@scu.edu"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/textView12" />
+</LinearLayout>

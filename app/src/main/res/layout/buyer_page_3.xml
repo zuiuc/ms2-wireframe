@@ -7,7 +7,7 @@
         android:layout_width="182dp"
         android:layout_height="207dp"
         android:id="@+id/imageView"
-        android:src="@drawable/ic_launcher"
+        android:src="@drawable/book_cover_11"
         android:layout_gravity="center_horizontal"
         android:layout_weight="0.79" />
 

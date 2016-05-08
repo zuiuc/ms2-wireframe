@@ -38,7 +38,7 @@
         <ImageView
             android:layout_width="72dp"
             android:layout_height="72dp"
-            android:background="@drawable/ic_launcher"
+            android:background="@drawable/book_cover_2"
             android:layout_marginTop="15dp"
             android:id="@+id/book_image"/>
         <TextView
@@ -59,7 +59,7 @@
             android:id="@+id/txtEmail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Email"
+            android:text="Price"
             android:layout_toRightOf="@id/book_image"
 android:layout_below="@id/txtName"
            android:layout_marginTop="20dp"
@@ -97,7 +97,7 @@ android:layout_below="@id/txtName"
             <ImageView
                 android:layout_width="72dp"
                 android:layout_height="72dp"
-                android:background="@drawable/ic_launcher"
+                android:background="@drawable/book_cover_1"
                 android:layout_marginTop="15dp"
                 android:id="@+id/book_image"/>
             <TextView
@@ -118,7 +118,7 @@ android:layout_below="@id/txtName"
                 android:id="@+id/txtEmail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email"
+                android:text="Price"
                 android:layout_toRightOf="@id/book_image"
                 android:layout_below="@id/txtName"
                 android:layout_marginTop="20dp"
@@ -156,7 +156,7 @@ android:elevation="10dp"
             <ImageView
                 android:layout_width="72dp"
                 android:layout_height="72dp"
-                android:background="@drawable/ic_launcher"
+                android:background="@drawable/book_cover_4"
                 android:layout_marginTop="15dp"
                 android:id="@+id/book_image"/>
             <TextView
@@ -177,7 +177,7 @@ android:elevation="10dp"
                 android:id="@+id/txtEmail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email"
+                android:text="Price"
                 android:layout_toRightOf="@id/book_image"
                 android:layout_below="@id/txtName"
                 android:layout_marginTop="20dp"
